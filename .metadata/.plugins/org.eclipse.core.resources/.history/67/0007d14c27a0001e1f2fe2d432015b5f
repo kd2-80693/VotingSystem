@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Login</title>
+</head>
+<body>
+<center>
+	<form method="post" action="login">
+		<h1 style=""textAlign: 'center' }}>Login</h1>
+			Email : <input type='email' name='email' placeholder='Email here' /><br>
+			<br> Password : <input type='password' name='password'
+				placeholder='password here' /><br> <br> <a
+				href=''><input type='button'
+				value="Sign-Up" /></a><input type='submit'
+				value="Sign-in" />
+	</form>
+	</center>
+</body>
+</html>
