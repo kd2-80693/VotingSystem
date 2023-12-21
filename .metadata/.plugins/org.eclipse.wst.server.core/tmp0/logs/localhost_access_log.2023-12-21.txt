@@ -1,0 +1,7 @@
+127.0.0.1 - - [21/Dec/2023:22:12:02 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [21/Dec/2023:22:12:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:22:12:29 +0530] "GET /VotingSystemServlets/index.html HTTP/1.1" 200 367
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:22:12:45 +0530] "POST /VotingSystemServlets/login HTTP/1.1" 500 2610
+127.0.0.1 - - [21/Dec/2023:22:14:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:22:14:12 +0530] "GET /VotingSystemServlets/index.html HTTP/1.1" 200 366
+0:0:0:0:0:0:0:1 - - [21/Dec/2023:22:14:17 +0530] "POST /VotingSystemServlets/login HTTP/1.1" 500 1551
